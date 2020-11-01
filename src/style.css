@@ -50,6 +50,7 @@ header {
   height: 5rem;
 
   background-color: #301a1a;
+
 }
 
 .topbar {
@@ -246,7 +247,9 @@ nav a:hover {
   background-position: top center;
   background-attachment: fixed;
 }
-
+.popis-galerie {
+  font-size: large;
+}
 .contacts {
   margin-bottom: 4rem;
 
